@@ -1,2 +1,1 @@
-# trial1
-nah delete it afterwards
+I am editing the README file. Adding some more details about the project description.
